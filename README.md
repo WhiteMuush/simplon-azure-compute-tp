@@ -208,3 +208,9 @@ Vous avez maintenant 3 URL actives. Ouvrez-les côte à côte dans votre navigat
 - **Azure Functions (Serverless)** : écrivez une fonction, Azure l'exécute à la demande. Facturation à l'exécution, scaling natif. Idéal pour les traitements événementiels et les APIs légères.
 - **Container Instances** : déployez une image Docker en quelques secondes sans gérer de cluster. Idéal pour les tâches isolées et les démos rapides.
 - Le même résultat (une API HTTP) peut être obtenu de trois façons très différentes — le choix dépend du contrôle souhaité, du coût et de la charge de gestion.
+
+---
+
+## 📄 Licence
+
+Travail pédagogique **propriétaire, tous droits réservés** (Simplon.co). Consultation autorisée pour évaluation et portfolio ; reproduction, réutilisation pour rendu, modification et usage commercial interdits. Voir [LICENSE](LICENSE).
